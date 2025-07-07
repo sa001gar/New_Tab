@@ -100,7 +100,7 @@ const rtlLanguages = ["ur", "fa", "ar_SA"];
 function applyLanguage(lang) {
     // Mapping of text elements and their translation keys
     const translationMap = [
-        "feedback",
+        // "feedback",
         "resetsettings",
         "shortcutsText",
         "enableShortcutsText",
